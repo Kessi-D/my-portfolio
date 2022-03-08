@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black
+}
+.main{
+    background-color: #e9f0ec;
+    width: 90vw;
+    height: 90vh;
+    /* border: 2px solid red; */
+    margin-top: 40px;
+}
