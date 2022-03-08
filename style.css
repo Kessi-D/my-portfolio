@@ -9,7 +9,17 @@ body{
 .main{
     background-color: #e9f0ec;
     width: 90vw;
-    height: 90vh;
+    /* height: 90vh; */
     /* border: 2px solid red; */
     margin-top: 40px;
 }
+.works{
+    margin-top: 40px;
+}
+img.showcase{
+    transform: rotate(-30deg);
+}
+img.showcase1{
+    transform: rotate(30deg);
+}
+ 
